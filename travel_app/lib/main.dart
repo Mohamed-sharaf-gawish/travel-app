@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:travel_app/screens/ezy_travel_screen.dart';
-import 'package:travel_app/screens/travel_home.dart';
-
+import 'package:travel_app/presentation/screens/travel_home.dart';
 void main() {
   runApp(const MyApp());
 }

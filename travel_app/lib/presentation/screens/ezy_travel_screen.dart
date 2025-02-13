@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:travel_app/dummy.dart';
-import 'package:travel_app/logic.dart';
-import 'package:travel_app/screens/travel_home.dart';
+import 'package:travel_app/data/dummy.dart';
+import 'package:travel_app/logic/logic.dart';
+import 'package:travel_app/presentation/screens/travel_home.dart';
 
 class EzyTravelScreen extends StatefulWidget {
    EzyTravelScreen({super.key,required this.list,

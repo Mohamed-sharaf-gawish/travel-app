@@ -1,10 +1,10 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:travel_app/dummy.dart';
-import 'package:travel_app/logic.dart';
-import 'package:travel_app/screens/ezy_travel_screen.dart';
-import 'package:intl/intl.dart'; // For formatting dates
+import 'package:intl/intl.dart';
+import 'package:travel_app/data/dummy.dart';
+import 'package:travel_app/logic/logic.dart';
+import 'package:travel_app/presentation/screens/ezy_travel_screen.dart'; // For formatting dates
 
 class TravelHome extends StatefulWidget {
   TravelHome({super.key});
