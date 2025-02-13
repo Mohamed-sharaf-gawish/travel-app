@@ -1,5 +1,6 @@
-import 'package:travel_app/data.dart';
-import 'package:travel_app/dummy.dart';
+
+
+import 'package:travel_app/data/dummy.dart';
 
 class Logic {
   Future<void> searchFlight(
